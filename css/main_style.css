@@ -1,0 +1,192 @@
+html, body, container, div, span, applet, object, iframe, h1, h3, h4, h5, h6 {
+margin : 0;
+padding : 0;
+border : 0;
+outline : 0;
+font-size : 96%;
+font-family : Arial, Verdana;
+line-height : 21px;
+}
+img {
+border-style : none;
+}
+a {
+color : #669900;
+text-decoration : underline;
+}
+a:hover {
+color : #ff0000;
+text-decoration : underline;
+}
+body {
+background : #ffffff;
+color : #333333;
+font-size : 1em;
+margin : 0 auto 0;
+line-height : 20px;
+}
+#container {
+width : 1224px;
+margin : 0 auto 20px;
+padding : 0;
+}
+#header {
+width : 1224px;
+height : 100px;
+margin : auto;
+padding : 0;
+position : relative;
+background : #ffffff url(images/top-bar.jpg) repeat-x top center;
+}
+* html {
+width : 1224px;
+float : left;
+margin : 0;
+padding : 0;
+background : #ffffff;
+}
+#right-side {
+width : 10px;
+padding : 0;
+margin : 0;
+float : left;
+font-size : 1em;
+background : #ffffff;
+}
+#left-side {
+float : left;
+width : 10px;
+padding : 0;
+margin : 0;
+font-size : 1em;
+background : #ffffff;
+}
+#map {
+float : left;
+width : 1000px;
+padding : 0;
+margin : 0;
+font-size : 1em;
+background : #ffffff;
+}
+#bottom {
+width: 1000px;
+height:40px;
+margin:auto;
+margin-top:10px;
+padding: 10px;
+font-size:1em;
+color: #333333;
+background:none repeat scroll 0 0 #ffffff;
+-moz-border-radius:3px 3px 3px 3px;
+}
+h1 {
+font-size : 1.4em;
+font-family : Arial, Georgia, "Times New Roman", Times, serif;
+color : #333333;
+font-weight : normal;
+padding : 5px 0 5px 0;
+margin : 20px 0 5px 0;
+}
+h1 a {
+color : #669900;
+text-decoration : none;
+}
+h1 a:hover {
+color : #ff0000;
+text-decoration : underline;
+}
+h2 {
+font-size : 1.3em;
+font-family : Arial, Georgia, "Times New Roman", Times, serif;
+color : #333333;
+font-weight : normal;
+padding : 5px 0 5px 0;
+margin : 0 0 5px 0;
+}
+h2 a {
+color : #669900;
+text-decoration : none;
+}
+h2 a:hover {
+color : #ff0000;
+text-decoration : underline;
+}
+.side {
+font-size : 1.3em;
+}
+h3 {
+color : #333333;
+font-size : 1.2em;
+font-family : Arial, Georgia, "Times New Roman", Times, serif;
+margin : 3px 0 10px 1px;
+padding : 5px 0 5px 5px;
+font-weight : normal;
+}
+h4 {
+color : #333333;
+margin : 3px 0 5px 4px;
+font-size : 1.1em;
+}
+ul {
+list-style-type : none;
+margin : 0;
+padding : 0 0 10px 0;
+}
+ul li {
+list-style-type : none;
+margin : 0 0 0 2px;
+padding : 0;
+}
+ul ul {
+list-style-type : none;
+margin : 0;
+padding : 0 0 10px 0;
+}
+ol {
+margin : 0;
+padding : 0 0 10px 0;
+}
+ol li {
+margin : 0 0 10px 0;
+padding : 0;
+}
+.itemsall {
+color : #cc0066;
+}
+.itemsshowed {
+color : #009966;
+}
+.left {
+text-align : left;
+}
+.float-left {
+float : left;
+}
+.right {
+text-align : right;
+}
+.copyright {
+padding-right : 20px;
+}
+.counter {
+padding-top: 30px;
+padding-right: 50px;
+text-align : right;
+}
+.help {
+margin-bottom : 20px;
+}
+.containerbig {
+width : 1224px;
+margin : 0 auto 20px;
+padding : 0;
+}
+.mapbig {
+float : left;
+width : 1200px;
+padding : 0;
+margin : 0;
+font-size : 1em;
+background : #ffffff;
+}
